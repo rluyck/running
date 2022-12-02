@@ -1,4 +1,4 @@
-# Analysing and visualising my Garmin running data
+# Analysing and visualising Garmin running data
 
 ![cumulative running distance](https://github.com/rluyck/running/blob/main/images/cumulative_distance.png)
 
