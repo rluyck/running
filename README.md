@@ -7,3 +7,5 @@
 ![avg pace](https://github.com/rluyck/running/blob/main/images/avg_pace.png)
 ![avg pace kmph](https://github.com/rluyck/running/blob/main/images/avg_pace_kmph.png)
 ![avg hr](https://github.com/rluyck/running/blob/main/images/avg_hr.png)
+![normalized hr](https://github.com/rluyck/running/blob/main/images/normalized_hr.png)
+![normalized pace](https://github.com/rluyck/running/blob/main/images/normalized_pace.png)
